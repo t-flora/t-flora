@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDev, systems programming, ML, microcontrollers, automation in general, and economics
 - 🌱 I’m currently learning React, Rust, and Arduino. React for fun, Rust out of deep interest, and Arduino for silly ideas
 - 💞️ I’m looking to collaborate on AI/ML projects or anything to do with systems programming
-- 📫 How to reach me: email me@tiagoflora.com or, more obscurely, react out through @\_\__tflora\_\__ on twitter
+- 📫 How to reach me: email me@tiagoflora.com or, more obscurely, reach out through @\_\__tflora\_\__ on twitter
 
 <!---
 t-flora/t-flora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
