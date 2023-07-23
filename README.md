@@ -8,3 +8,4 @@
 t-flora/t-flora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,linux,aws,bash,firebase,flask,git,github,md,netlify,nextjs,nodejs,r,react,tailwind,vim,vscode)](https://skillicons.dev)
