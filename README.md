@@ -1,9 +1,8 @@
 Hi, I’m Tiago. I'm some guy based in the Bay Area.
-I’m not interested in WebDev but can spin up a website.
 I am interested in systems programming and microcontrollers but know relatively little about it.
 I am very interested in ML and know a little bit about it.
 
-How to reach me: email tiagoflora@uni.minerva.edu
+How to reach me: email tiagomflora@gmail.com
 
 <!---
 t-flora/t-flora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
