@@ -1,6 +1,6 @@
-Hi, I’m Tiago. I'm some guy based in the Bay Area.
-I am interested in systems programming and microcontrollers but know relatively little about it.
-I am very interested in ML and know a little bit about it.
+Hi, I’m Tiago. I'm a Financial Mathematics MS student at the University of Chicago, concentrating in high-performance computing and ML/AI.
+I once built a simple von Neumann machine emulator and realized I really enjoyed building it.
+Deeply interested in AI and its consequences. Up-to-date on its capabilities.
 
 How to reach me: email tiagomflora@gmail.com
 
@@ -8,4 +8,4 @@ How to reach me: email tiagomflora@gmail.com
 t-flora/t-flora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,py,linux,aws,bash,firebase,flask,git,github,md,netlify,nextjs,nodejs,r,react,tailwind,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,r,js,ts,linux,aws,bash,firebase,flask,git,github,md,nextjs,nodejs,react,vim,vscode)](https://skillicons.dev)
