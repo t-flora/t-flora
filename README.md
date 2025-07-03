@@ -2,7 +2,7 @@ Hi, I’m Tiago. I'm a Financial Mathematics MS student at the University of Chi
 I once built a simple von Neumann machine emulator and realized I really enjoyed building it.
 Deeply interested in AI and its consequences. Up-to-date on its capabilities.
 
-How to reach me: email tiagomflora@gmail.com
+How to reach me: email tflora@uchicago.edu or tiagomflora@gmail.com
 
 <!---
 t-flora/t-flora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
